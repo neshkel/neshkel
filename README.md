@@ -4,6 +4,8 @@
 
 👋 Bienvenue sur mon dépôt GitHub ! Je suis BLACHE Nolwenn, un développeur full stack PHP en auto-entrepreneur, passionné par la création de solutions web innovantes et efficaces. Avec une expertise approfondie en développement front-end et back-end, je travaille avec des entreprises et des particuliers pour transformer leurs idées en réalités numériques.
 
+<br>
+
 ## 🚀 À Propos de Moi
 
 Avec plusieurs années d'expérience dans le développement web, j'ai acquis une solide compétence dans diverses technologies et frameworks. Mon objectif est de fournir des solutions de haute qualité qui répondent aux besoins spécifiques de mes clients.
@@ -14,6 +16,8 @@ Compétences Clés
 - **Bases de Données :** MySQL, PostgreSQL, SQLite
 - **Outils et Technologies :** Git, Nginx, Apache
 - **Méthodologies :** Développement Agile, Test-Driven Development (TDD)
+
+<br>
 
 ## 💼 Services Proposés
 
@@ -41,31 +45,55 @@ Offre de solutions complètes pour le développement de projets web de bout en b
 - **Déploiement et Maintenance :** Mise en production et support continu.
 - **Conseil et Expertise :** Accompagnement personnalisé pour vos projets numériques.
 
-## 🌟 Projets en Vedette
+<br>
 
-### Site de demonstration :
+## 🌟 **Projets en Vedette**
 
-- **[Data Manager](https://www.demo.data-manager.blache-nolwenn.fr)**
+### Site vitrine
+- **Description** : Un site vitrine de l'entreprise performant.
+- **Technologies** : PHP, JavaScript, MySQL.
+- **Lien** : [Voir le projet](https://www.blache-nolwenn.fr)
 
+### Site CV intéractif
+- **Description** : Un site pour proposer mon CV intéractif en ligne.
+- **Technologies** : PHP, JavaScript, MySQL.
+- **Lien** : [Voir le projet](https://www.cv.blache-nolwenn.fr)
 
-Description du projet 1, ses fonctionnalités principales et les technologies utilisées.
+<br>
 
-- **[Phone Book](https://www.demo.phone-book.blache-nolwenn.fr)**
+## 🌐 **Sites de Démonstration**
 
+### Démo Gestionnaire de données
+- **Description** : Un site de gestion de données interne avec des fonctionnalités d'édition d'employé ou de flottes de véhicules, gestion des données de facturations pour le calcul des bénéfices et des dépenses.
+- **Technologies** : PHP, JavaScript, MySQL.
+- **Lien** : [Voir la démo](https://www.demo.data-manager.blache-nolwenn.fr)
 
-Description du projet 2, ses fonctionnalités principales et les technologies utilisées.
+### Démo Annuaire téléphonique
+- **Description** : Un site de gestion de numéro de téléphone avec ajout, modification et recherche.
+- **Technologies** : PHP, JavaScript, MySQL.
+- **Lien** : [Voir la démo](https://demo.phone-book.blache-nolwenn.fr)
 
-- **[Nom du Projet 3]**
+<br>
 
+## 🏆 Distinctions et Récompenses
 
-Description du projet 3, ses fonctionnalités principales et les technologies utilisées.
+- **📃 AutoDidacte** : Cette distinction reflète ma capacité à apprendre et maîtriser de nouvelles compétences de manière autonome.
+En tant qu'autodidacte, j'ai acquis une expertise dans diverses technologies et langages de programmation, montrant une grande motivation et un engagement constant envers l'apprentissage continu.
+- **🏆 Trophée Action Co 2023 pour Ford** : Cette récompense reconnaît l'excellence du projet réalisé pour Ford. Le Trophée Action Co 2023 met en avant ma capacité à innover et à délivrer des solutions web performantes et adaptées aux besoins stratégiques de Ford.
+Ce projet a permis d'améliorer l'efficacité des opérations de Ford et de renforcer leur présence digitale, en mettant l'accent sur l'innovation, la performance et la satisfaction interne.
+
+<br>
 
 ## 📫 Contactez-Moi
 
-Je suis toujours à la recherche de nouvelles opportunités et de collaborations intéressantes. N'hésitez pas à me contacter pour discuter de vos projets ou pour toute autre question.
+Je suis toujours à la recherche de nouvelles opportunités et de collaborations intéressantes. N'hésitez pas à me contacter pour discuter de vos projets ou pour toute autre question [contact@blache-nolwenn.fr](mailto:contact@blache-nolwenn.fr).
 
-- **Email :** contact@blache-nolwenn.fr
-- **LinkedIn :** Votre Profil LinkedIn
-- **Site Web :** https://www.blache-nolwenn.fr
+<br>
 
-Merci de visiter mon dépôt GitHub ! Je suis impatient de travailler avec vous et de contribuer à vos projets passionnants.
+## 🔗 Réseaux Sociaux
+
+Suivez-moi pour des mises à jour sur mes projets et des insights sur le développement web :
+
+- **LinkedIn** : [BLACHE Nolwenn](www.linkedin.com/in/bn-web)
+
+Merci de visiter mon dépôt GitHub. Je suis impatient de collaborer avec vous pour donner vie à vos projets web.
