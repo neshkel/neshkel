@@ -84,6 +84,12 @@ Ce projet a permis d'améliorer l'efficacité des opérations de Ford et de renf
 
 <br>
 
+## 📈 Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=neshkel&show_icons=true)
+
+<br>
+
 ## 📫 Contactez-Moi
 
 Je suis toujours à la recherche de nouvelles opportunités et de collaborations intéressantes. N'hésitez pas à me contacter pour discuter de vos projets ou pour toute autre question [contact@blache-nolwenn.fr](mailto:contact@blache-nolwenn.fr).
