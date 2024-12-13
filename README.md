@@ -100,6 +100,6 @@ Je suis toujours à la recherche de nouvelles opportunités et de collaborations
 
 Suivez-moi pour des mises à jour sur mes projets et des insights sur le développement web :
 
-- **LinkedIn** : [BLACHE Nolwenn](www.linkedin.com/in/bn-web)
+- **LinkedIn** : [BLACHE Nolwenn](https://www.linkedin.com/in/bn-web)
 
 Merci de visiter mon dépôt GitHub. Je suis impatient de collaborer avec vous pour donner vie à vos projets web.
