@@ -1,6 +1,6 @@
 [![BeyondNexusTech](/banner_blache-nolwenn_2025.png)](https://www.beyondnexus.fr)
 
-# BLACHE Nolwenn - Développeur Full Stack PHP
+# Développeur Full Stack PHP
 
 👋 Bienvenue sur mon dépôt GitHub ! Je suis BLACHE Nolwenn, un développeur full stack PHP en auto-entrepreneur, passionné par la création de solutions web innovantes et efficaces. Avec une expertise approfondie en développement front-end et back-end, je travaille avec des entreprises et des particuliers pour transformer leurs idées en réalités numériques.
 
