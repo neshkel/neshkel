@@ -1,4 +1,4 @@
-[![BNetWork](https://www.blache-nolwenn.fr/public/image/logo/blache/logo-full.webp)](https://www.beyondnexus.fr)
+[![BeyondNexusTech](/banner_blache-nolwenn_2025.png)](https://www.beyondnexus.fr)
 
 # BLACHE Nolwenn - Développeur Full Stack PHP
 
@@ -50,13 +50,13 @@ Offre de solutions complètes pour le développement de projets web de bout en b
 ## 🌟 **Projets en Vedette**
 
 ### Site vitrine
-- **Description** : Un site vitrine de l'entreprise performant.
-- **Technologies** : PHP, JavaScript, MySQL.
-- **Lien** : [Voir le projet](https://www.blache-nolwenn.fr)
+- **Description** : Un site vitrine de l'entreprise.
+- **Technologies** : WordPress, MariaDB.
+- **Lien** : [Voir le projet](https://www.beyondnexus.fr)
 
 ### Site CV intéractif
 - **Description** : Un site pour proposer mon CV intéractif en ligne.
-- **Technologies** : PHP, JavaScript, MySQL.
+- **Technologies** : PHP, JavaScript, MariaDB.
 - **Lien** : [Voir le projet](https://www.cv.blache-nolwenn.fr)
 
 <br>
@@ -65,12 +65,12 @@ Offre de solutions complètes pour le développement de projets web de bout en b
 
 ### Démo Gestionnaire de données
 - **Description** : Un site de gestion de données interne avec des fonctionnalités d'édition d'employé ou de flottes de véhicules, gestion des données de facturations pour le calcul des bénéfices et des dépenses.
-- **Technologies** : PHP, JavaScript, MySQL.
+- **Technologies** : PHP, JavaScript, MariaDB.
 - **Lien** : [Voir la démo](https://www.demo.data-manager.blache-nolwenn.fr)
 
 ### Démo Annuaire téléphonique
 - **Description** : Un site de gestion de numéro de téléphone avec ajout, modification et recherche.
-- **Technologies** : PHP, JavaScript, MySQL.
+- **Technologies** : PHP, JavaScript, MariaDB.
 - **Lien** : [Voir la démo](https://demo.phone-book.blache-nolwenn.fr)
 
 <br>
@@ -92,7 +92,7 @@ Ce projet a permis d'améliorer l'efficacité des opérations de Ford et de renf
 
 ## 📫 Contactez-Moi
 
-Je suis toujours à la recherche de nouvelles opportunités et de collaborations intéressantes. N'hésitez pas à me contacter pour discuter de vos projets ou pour toute autre question [contact@blache-nolwenn.fr](mailto:contact@blache-nolwenn.fr).
+Je suis toujours à la recherche de nouvelles opportunités et de collaborations intéressantes. N'hésitez pas à me contacter pour discuter de vos projets ou pour toute autre question [contact@beyondnexus.fr](mailto:contact@beyondnexus.fr).
 
 <br>
 
