@@ -30,6 +30,7 @@
 
 | Projet | Stack Highlight | Impact |
 | :--- | :--- | :--- |
+| **[Neshkel.TV](https://temp.neshkel.fr)** | `Next.js 14` `Cloudflare R2` `Redis` | **Optimisation Edge :** Stockage objet via R2 et mise en cache ultra-rapide avec Redis pour une latence proche de zéro. |
 | **[Data Manager](https://www.demo.data-manager.blache-nolwenn.fr)** | `Symfony` `Next.js` `Redis` | Gestion complexe de flottes et facturation automatisée. |
 | **[Beyond Nexus](https://www.beyondnexus.fr)** | `Cloudflare` `WPO` | Vitrine optimisée pour un score Lighthouse > 95. |
 | **[Interactive CV](https://www.cv.blache-nolwenn.fr)** | `PHP 8` `JS` | Showcase de mon identité numérique et de mes compétences. |
