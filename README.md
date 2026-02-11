@@ -46,9 +46,7 @@
 
 ### 📊 Statistiques de contribution
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neshkel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats de Nolwenn" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neshkel&theme=tokyonight&hide_border=true&locale=fr&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
