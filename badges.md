@@ -1,21 +1,61 @@
-![Build Status](https://github.com/neshkel/your_repository/actions/workflows/ci.yml/badge.svg)
+# 🛡️ GitHub Badge Library (2026 Edition)
 
-![Build Status](https://travis-ci.com/neshkel/your_repository.svg?branch=main)
+> **Instructions :** Remplacez `USER` par `neshkel` et `REPO` par le nom de votre dépôt (ex: `Modding-Hub`).
 
-![Codecov](https://codecov.io/gh/neshkel/your_repository/branch/main/graph/badge.svg)
+---
 
-![Coverage Status](https://coveralls.io/repos/github/neshkel/your_repository/badge.svg?branch=main)
+## 📊 Repository Health & Stats
+*Affiche la "vivacité" et la propreté de votre structure.*
 
-![Dependencies](https://david-dm.org/neshkel/your_repository.svg)
+| Badge | Syntaxe Markdown |
+| :--- | :--- |
+| **Repo Size** | ![Size](https://img.shields.io/github/repo-size/neshkel/Modding-hub?color=blue&style=flat-square) |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/neshkel/Modding-hub?style=flat-square) |
+| **Commit Activity** | ![Activity](https://img.shields.io/github/commit-activity/m/neshkel/Modding-hub?style=flat-square) |
+| **File Count** | ![Files](https://img.shields.io/github/directory-file-count/neshkel/Modding-hub?style=flat-square) |
 
-![Known Vulnerabilities](https://snyk.io/test/github/neshkel/your_repository/badge.svg)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neshkel&layout=compact)
+## 🛡️ Security & Legal
+*Crucial pour rassurer les entreprises et les utilisateurs.*
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/neshkel/your_repository)
+| Badge | Syntaxe Markdown |
+| :--- | :--- |
+| **License** | ![License](https://img.shields.io/github/license/neshkel/Modding-hub?color=green&style=flat-square) |
+| **Vulnerabilities** | ![Snyk](https://img.shields.io/snyk/vulnerabilities/github/neshkel/Modding-hub?style=flat-square) |
+| **Dependencies** | ![Deps](https://img.shields.io/librariesio/github/neshkel/Modding-hub?style=flat-square) |
 
-![License](https://img.shields.io/github/license/neshkel/your_repository)
+---
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/neshkel/your_repository)
+## 🚀 Development & Automation
+*Prouve que vos outils (Actions, Releases) fonctionnent.*
 
-![Documentation Status](https://readthedocs.org/projects/your_project/badge/?version=latest)
+| Badge | Syntaxe Markdown |
+| :--- | :--- |
+| **Build Status** | ![Build](https://github.com/neshkel/Modding-hub/actions/workflows/main.yml/badge.svg) |
+| **Latest Release** | ![Release](https://img.shields.io/github/v/release/neshkel/Modding-hub?include_prereleases&style=flat-square) |
+| **Top Languages** | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neshkel&layout=compact&theme=vision-friendly-dark) |
+
+---
+
+## 🎨 Professional & Custom Badges
+*Pour le style et la clarté technique.*
+
+| Badge | Syntaxe Markdown |
+| :--- | :--- |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Lua** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
+| **C# (Valheim)** | ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **Made with AI** | ![Gemini](https://img.shields.io/badge/Modded_with-Gemini_AI-blue?style=flat-square&logo=google-gemini&logoColor=white) |
+| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=neshkel&color=green&style=flat-square) |
+
+---
+
+## 💡 Pro-Tips for READMEs
+
+### 1. Grouping Badges (The "Inline" Look)
+Pour aligner vos badges proprement sous votre titre principal, ne sautez pas de ligne entre eux :
+```markdown
+# 🌌 My Project Name
+![License](...) ![Size](...) ![Last Commit](...)
+```
